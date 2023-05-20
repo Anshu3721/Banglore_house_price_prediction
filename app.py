@@ -105,3 +105,8 @@ st.divider()
 st.divider()
 
 st.write("For github link: [click here](https://github.com/Anynomous25/Banglore_house_price_prediction)")
+
+import requests
+
+my_result = requests.get('https://w3schools.com/python/demopage.htm')
+st.write(my_result)
