@@ -108,4 +108,4 @@ import requests
 
 x12 = requests.get('https://w3schools.com/python/demopage.htm')
 
-print(x12.text)
+st.write(x12.text)
