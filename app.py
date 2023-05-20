@@ -109,4 +109,4 @@ st.write("For github link: [click here](https://github.com/Anynomous25/Banglore_
 import requests
 
 my_result = requests.get('https://w3schools.com/python/demopage.htm')
-st.write(my_result)
+st.write(my_result.text)
