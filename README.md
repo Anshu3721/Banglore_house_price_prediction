@@ -5,7 +5,7 @@ This repository contains a data science project that focuses on predicting house
 
 
 ## Demo
-[![Watch the video]([https://i.imgur.com/vKb2F1B.png)](https://youtu.be/vt5fpE0bzSY](https://github.com/Anshu3721/Banglore_house_price_prediction/blob/master/Demo.mp4))
+<img src="https://github.com/Anshu3721/Banglore_house_price_prediction/blob/master/demo_gif.gif">
 
 
 # Project Description
@@ -29,15 +29,6 @@ The web app has been build using streamlit.
 
  Project Link: https://anshu3721-banglore-house-price-prediction-app-a5kybr.streamlit.app/
 ## Contributing
-
-We welcome contributions to this project. If you would like to contribute, please follow these steps:
-
-- Fork the repository on GitHub.
-- Create a new branch.
-- Make your changes and commit them with descriptive messages.
-- Push your changes to your forked repository.
-- Submit a pull request explaining your changes.
-
 
 ## Credits
 
