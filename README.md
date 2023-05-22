@@ -5,6 +5,7 @@ This repository contains a data science project that focuses on predicting house
 
 
 ## Demo
+[![Watch the video]([https://i.imgur.com/vKb2F1B.png)](https://youtu.be/vt5fpE0bzSY](https://github.com/Anshu3721/Banglore_house_price_prediction/blob/master/Demo.mp4))
 
 
 # Project Description
