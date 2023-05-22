@@ -28,8 +28,6 @@ The dataset used in this project is collected from kaggle. It includes informati
 The web app has been build using streamlit.
 
  Project Link: https://anshu3721-banglore-house-price-prediction-app-a5kybr.streamlit.app/
-## Contributing
-
 ## Credits
 
 Referring to **codebasics** helped me alot.
